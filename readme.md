@@ -6,7 +6,7 @@ CryptoTranscript deals with Blockchain based digital transcripts to the Universi
 
 ## Prerequisits
 
-Java Development Kit JDK8 (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+[Java Development Kit JDK8] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
 ## Running
@@ -14,7 +14,7 @@ Java Development Kit JDK8 (https://www.oracle.com/technetwork/java/javase/downlo
 To run this application, follow the below methods:
 
 1. Traverse to project directory in terminal / command prompt 
-2. Once you are in the project directory, run the command 'gradlew run'
+2. Once you are in the project directory, run the command `gradlew run`
 3. The warnings and 80% [Executing] can safely be ignored
 4. Open the CryptoTranscript.html which is in the parent directory.
 
@@ -28,7 +28,7 @@ Once the application is up and running, the API instances are available at http:
 * `GET /getTranscriptBlocks` for listing all existing blocks in the chain
 * `POST /transcriptBlocks/mine` for mining a block
 * `POST /tamperBlocks` for tampering an existing block and after the chain is created
-* `POST/transcriptBlocks/fork` - to simulate fork
+* `POST /transcriptBlocks/fork` - to simulate fork
 * `GET /transcriptBlocks/longestchain` - to find the longest chain
 
 
