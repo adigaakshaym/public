@@ -22,11 +22,11 @@ Once the application is up and running, the API instances are available at http:
 
 ### endpoints
 
-* 'GET /getTranscriptBlocks' for listing all existing blocks in the chain
-* 'POST /transcriptBlocks/mine' for mining a block
-* 'POST /tamperBlocks for tampering an existing block and after the chain is created
-* 'POST /transcriptBlocks/fork - to simulate fork
-* 'GET /transcriptBlocks/longestchain - to find the longest chain
+* `GET /getTranscriptBlocks` for listing all existing blocks in the chain
+* `POST /transcriptBlocks/mine` for mining a block
+* `POST /tamperBlocks` for tampering an existing block and after the chain is created
+* `POST/transcriptBlocks/fork` - to simulate fork
+* `GET /transcriptBlocks/longestchain` - to find the longest chain
 
 
 ## References
