@@ -20,7 +20,7 @@ To run this application, simply execute:
 
 Once the application is up and running, the API instances are available at http://localhost:4444 and is accessible through postman.
 
-###endpoints
+### endpoints
 
 * 'GET /getTranscriptBlocks' for listing all existing blocks in the chain
 * 'POST /transcriptBlocks/mine' for mining a block
