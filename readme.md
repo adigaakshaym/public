@@ -31,8 +31,8 @@ Once the application is up and running, the API instances are available at http:
 
 ## References
 
-*[Mango Research](https://www.mangoresearch.co)
-*[BlockCerts](https://www.blockcerts.org/guide/)
+* [Mango Research](https://www.mangoresearch.co)
+* [BlockCerts](https://www.blockcerts.org/guide)
 
 
 This project uses some open source libraries:
