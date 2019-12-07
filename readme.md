@@ -6,7 +6,6 @@ CryptoTranscript deals with Blockchain based digital transcripts to the Universi
 
 ## Running
 
-
 To run this application, simply execute:
 
 
@@ -32,7 +31,7 @@ Once the application is up and running, the API instances are available at http:
 
 ## References
 
-*[Mango Research] (https://www.mangoresearch.co)
+*[Mango Research](https://www.mangoresearch.co)
 *[BlockCerts](https://www.blockcerts.org/guide/)
 
 
@@ -40,4 +39,4 @@ This project uses some open source libraries:
 * [Apache Commons Codec](https://github.com/apache/commons-codec)
 * [JavaLin](https://javalin.io/)
 * [Jackson Module Kotlin](https://github.com/FasterXML/jackson-module-kotlin)
-* [Gradle Build Tool] (https://gradle.org/)
+* [Gradle Build Tool](https://gradle.org/)
