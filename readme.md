@@ -11,12 +11,13 @@ CryptoTranscript deals with Blockchain based digital transcripts to the Universi
 
 ## Running
 
-To run this application, follow the below methods:
+#### To run this application, follow the below methods:
 
-1. Traverse to project directory in terminal / command prompt 
-2. Once you are in the project directory, run the command `gradlew run`
-3. The warnings and 80% [Executing] can safely be ignored
-4. Open the CryptoTranscript.html which is in the parent directory.
+1. Make sure you have the prerequisits installed
+2. Traverse to project directory in terminal / command prompt 
+3. Once you are in the project directory, run the command `gradlew run`
+4. The warnings and 80% [Executing] can safely be ignored
+5. Open the CryptoTranscript.html which is in the parent directory.
 
 
 ## API Information
