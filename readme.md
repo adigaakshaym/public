@@ -6,7 +6,7 @@ CryptoTranscript deals with Blockchain based digital transcripts to the Universi
 
 ## Prerequisits
 
-[Java Development Kit JDK8] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+[Java Development Kit JDK8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
 ## Running
